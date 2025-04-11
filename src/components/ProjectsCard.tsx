@@ -8,12 +8,12 @@ interface PropertyImage {
 
 const ProjectsCard: React.FC = () => {
   const propertyImages: PropertyImage[] = [
-    { src: '/img/brian-wangenheim-AP9XhEne8m4-unsplash.jpg', alt: 'Property 1' },
-    { src: '/img/brian-wangenheim-esx_MLBNOEI-unsplash.jpg', alt: 'Property 2' },
-    { src: '/img/brian-wangenheim-j3l5s6TrEi8-unsplash.jpg', alt: 'Property 3' },
-    { src: '/img/jennifer-grismer-xkTqGWLtJh4-unsplash.jpg', alt: 'Property 4' },
-    { src: '/img/julia-rodriguez-IR1EeDnrU10-unsplash.jpg', alt: 'Property 5' },
-    { src: '/img/mike-petrucci-18joWFjUhKw-unsplash.jpg', alt: 'Property 6' },
+    { src: '/img/2e77b8e179c35fefcd51fe74f284a6c0.png', alt: 'Property 1' },
+    { src: '/img/65747c3d11c9bbf5402f5a2f5a4de45a.jpeg', alt: 'Property 2' },
+    { src: '/img/537cc256697d290adb7b82eeace75b04.png', alt: 'Property 3' },
+    { src: '/img/2e77b8e179c35fefcd51fe74f284a6c0.png', alt: 'Property 4' },
+    { src: '/img/737695c09945ed2efbc05bc01be39692.png', alt: 'Property 5' },
+    { src: '/img/65747c3d11c9bbf5402f5a2f5a4de45a.jpeg', alt: 'Property 6' },
   ];
 
 
