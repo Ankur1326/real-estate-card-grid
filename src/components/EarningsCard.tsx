@@ -19,7 +19,7 @@ const EarningsCard: React.FC = () => {
 
   return (
     <div
-      className={`bg-gray-800 rounded-lg p-6 relative overflow-hidden h-72 flex flex-col justify-end`}
+      className={`bg-gray-800 rounded-lg p-6 relative overflow-hidden h-80 flex flex-col justify-end`}
     >
       <div className="relative z-10">
         <h2 className="text-white text-5xl font-medium mb-1">3 231 791</h2>

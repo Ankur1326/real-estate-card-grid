@@ -30,13 +30,6 @@ const MembersCard: React.FC = () => {
     { top: '85%', right: '20%', size: 'w-10 h-10', delay: '0.3s', imgUrl: "/img/profile-avatar/avatar7.jpeg", rotate: "rotate-130" },
   ];
 
-  // { top: '15%', left: '10%' },
-  // { top: '35%', left: '10%' },
-  // { top: '25%', right: '10%' },
-  // { top: '65%', left: '10%' },
-  // { top: '75%', right: '10%' },
-  // { top: '45%', right: '10%' },
-
   type MobileImageStyle = {
     top: string;
     left?: string;

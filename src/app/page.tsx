@@ -7,7 +7,7 @@ import ProjectsCard from "@/components/ProjectsCard";
 const Home: React.FC = () => {
   return (
     <div className="flex justify-center items-center min-h-screen w-full p-4">
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 w-full max-w-4xl">
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 w-full max-w-5xl">
         {/* Projects Card */}
         <div className="sm:row-span-2 w-full h-full">
           <ProjectsCard />
