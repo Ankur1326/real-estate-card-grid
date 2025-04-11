@@ -23,9 +23,9 @@ const ProjectsCard: React.FC = () => {
       <div
         className={`bg-gray-900 rounded-lg p-6 relative overflow-hidden h-80 flex flex-col justify-end`}
       >
-        <div className="absolute z-10">
-          <h2 className="text-white text-5xl font-light mb-1">100+</h2>
-          <p className="text-xs text-gray-300">projets immobiliers</p>
+        <div className="absolute z-10 flex flex-col bottom-0 gap-0 h-28 ">
+          <h2 className="text-white text-[80px]/20 font-[400] ">100+</h2>
+          <p className="text-[15px] text-gray-300">projets immobiliers</p>
         </div>
         <div className="absolute right-2 top-7 h-42 w-full">
           {propertyImages.map((item: PropertyImage, index: number) => (
